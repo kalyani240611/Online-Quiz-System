@@ -4,7 +4,6 @@ Online Quiz/Test System (C++)
 Students often need a simple and effective way to practice multiple-choice questions and evaluate their understanding of concepts. This project provides a console-based quiz system where users can take quizzes and get instant score evaluation.
 
 🛠️ Technologies Used
-- C++
 - STL (vector, map)
 - File Handling (fstream)
 - Console-based UI
