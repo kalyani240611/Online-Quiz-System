@@ -1,3 +1,5 @@
+//Author: Dungala Kalyani
+//Discription: A console-based Online-Quiz-System using C++ and OOP
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -162,5 +164,6 @@ int main() {
 
     return 0;
 }
+
 
 
