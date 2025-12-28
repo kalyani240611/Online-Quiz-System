@@ -24,7 +24,6 @@ Students often need a simple and effective way to practice multiple-choice quest
    **Note:** The file `questions.txt` is automatically created when questions are saved.
 
  📊 Sample Output
- 
 === Online Quiz/Test System ===
 1. Add Question
 2. Take Quiz
@@ -38,9 +37,10 @@ What is the capital of India?
 A. Delhi
 B. Mumbai
 C. Kolkata
-
 D. Chennai
+
 Your answer: A
+
 Correct!
 
 Which language is used for system programming?
@@ -48,9 +48,10 @@ Which language is used for system programming?
 A. Python
 B. C++
 C. HTML
-
 D. JavaScript
+
 Your answer: B
+
 Correct!
 
 Quiz finished. Your score: 2/2
